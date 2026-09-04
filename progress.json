@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:15:38.070Z",
+  "generated_at": "2026-10-30T16:15:40.421Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -13,6 +13,58 @@
       "last_pushed_at": "2026-08-27T14:58:38.455Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-04T16:46:44.451Z",
+      "last_pushed_at": "2026-09-04T16:46:44.451Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-04T17:35:46.369Z",
+      "last_pushed_at": "2026-09-04T17:35:46.369Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-04T21:17:48.872Z",
+      "last_pushed_at": "2026-09-04T21:17:48.872Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-04T21:45:41.867Z",
+      "last_pushed_at": "2026-09-04T21:45:41.867Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
