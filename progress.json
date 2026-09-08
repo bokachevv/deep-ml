@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:15:40.421Z",
+  "generated_at": "2026-10-30T16:15:42.819Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,58 @@
       "last_pushed_at": "2026-09-04T21:45:41.867Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-08T11:09:44.617Z",
+      "last_pushed_at": "2026-09-08T11:09:44.617Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-08T12:34:00.312Z",
+      "last_pushed_at": "2026-09-08T12:34:00.312Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-09-08T12:43:43.182Z",
+      "last_pushed_at": "2026-09-08T12:43:43.182Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-08T15:53:26.792Z",
+      "last_pushed_at": "2026-09-08T15:53:26.792Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
