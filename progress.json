@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:15:45.025Z",
+  "generated_at": "2026-10-30T16:15:47.061Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,97 @@
       "last_pushed_at": "2026-09-09T15:48:39.962Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-22T12:38:19.251Z",
+      "last_pushed_at": "2026-10-22T12:38:19.251Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-22T12:55:12.428Z",
+      "last_pushed_at": "2026-10-22T12:55:12.428Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-10-22T13:52:34.648Z",
+      "last_pushed_at": "2026-10-22T13:52:34.648Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-10-22T14:08:23.994Z",
+      "last_pushed_at": "2026-10-22T14:08:23.994Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-10-22T14:25:03.333Z",
+      "last_pushed_at": "2026-10-22T14:25:03.333Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-10-22T14:41:24.810Z",
+      "last_pushed_at": "2026-10-22T14:41:24.810Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-10-22T23:30:13.428Z",
+      "last_pushed_at": "2026-10-22T23:30:13.428Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
